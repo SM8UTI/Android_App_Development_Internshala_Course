@@ -19,4 +19,5 @@
 |08|Print all the values of the array arr = [1, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20] in a new line.|[q8.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-1/q8.kt)|
 |09|Create an immutable list, a mutable list, and an arraylist of the elements: “Lionel Messi”, “Wayne Rooney”, “Luka Modric”, “Eden Hazard”, “Sergio Aguero”. Print all the above three lists.|[q9.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-1/q9.kt)|
 |10|In the mutable version of the list in the previous question add the string: “Harry Kane”. From the modified list remove the string: “Wayne Rooney”. Now in this list add the string: “Neymar Jr.” at index 1. Now print the modified mutable list.|[q10.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-1/q10.kt)|
+|11|Create a program in Kotlin to calculate the factorial of number 7.|[q11.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-1/q11.kt)|
 
