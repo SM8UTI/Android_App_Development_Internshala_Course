@@ -14,3 +14,4 @@
 |05|Calculate and print the sum of the first 50 natural numbers using ‘for’, ‘while’, and ‘do-while’ loops.|[q5.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-1/q5.kt)|
 |06|Print the even numbers from 100 to 1 using ‘for’, ‘while’, and ‘do-while’ loops.|[q6.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-1/q6.kt)|
 |07|Print the odd numbers from 100 to 1 using ‘for’, ‘while’, and ‘do-while’ loops.|[q7.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-1/q6.kt)|
+|08|Print all the values of the array arr = [1, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20] in a new line.|[q8.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-1/q8.kt)|
