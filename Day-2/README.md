@@ -74,5 +74,6 @@ val intList: List<Int> = nullableList.filterNotNull()
 |---------------|--------|---|
 |01|Print the value present at index 6 in the given array. `arr = [0, 100, 200, 300, 400, 500]`. Use try-catch to catch the exception if any.|[q1.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-2/q1.kt)|
 |02|Initialise a String as “Hello, Kotlin” and change its value to null. Now print the length of the String using safe call and non-null assertion operator.|[q2.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-2/q2.kt)|
+|03|Initialise a variable x = null and print the value as 0.0 while printing x using the Elvis operator.|[q3.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-2/q3.kt)|
 
 
