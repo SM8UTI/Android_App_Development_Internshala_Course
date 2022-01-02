@@ -64,7 +64,7 @@ println(a?.length) // Unnecessary safe call
 val l = b?.length ?: -1
 ```
 
-* If you have a collection of elements of a nullable type and want to filter non-null elements, you can do so by using `filterNotNull` :
+* If you have a collection of elements of a nullable type and want to filter non-null elements, you can do so by using `filterNotNull()` :
 ```kotlin
 val nullableList: List<Int?> = listOf(1, 2, null, 4)
 val intList: List<Int> = nullableList.filterNotNull()
@@ -75,5 +75,6 @@ val intList: List<Int> = nullableList.filterNotNull()
 |01|Print the value present at index 6 in the given array. `arr = [0, 100, 200, 300, 400, 500]`. Use try-catch to catch the exception if any.|[q1.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-2/q1.kt)|
 |02|Initialise a String as “Hello, Kotlin” and change its value to null. Now print the length of the String using safe call and non-null assertion operator.|[q2.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-2/q2.kt)|
 |03|Initialise a variable x = null and print the value as 0.0 while printing x using the Elvis operator.|[q3.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-2/q3.kt)|
+|04|Given a list = `[1, null, 2, 4, null, 6, 8, 10, null]`. Insert the number 12 to the number at index 7 and then print out the complete list without any exceptions or null values in the output.|[q4.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-2/q4.kt)|
 
 
