@@ -9,8 +9,8 @@
 
 `OOPs` - Object Oriented Programming 
 * OOPS is a way of oraganising and structuring code using objects 
-* ** Classes ** are the blueprint or template for creating objects.
-* ** Objects ** are an instance of a class.
+* `Classes` are the blueprint or template for creating objects.
+* `Objects` are an instance of a class.
 
 ##### Naming Conventions : 
 * Name of the class always starts English Capital Letter.
