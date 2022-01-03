@@ -7,6 +7,30 @@
 
 ## Classes of Kotlin 
 
+`OOPs` - Object Oriented Programming 
+* OOPS is a way of oraganising and structuring code using objects 
+* ** Classes ** are the blueprint or template for creating objects.
+* ** Objects ** are an instance of a class.
+
+##### Naming Conventions : 
+* Name of the class always starts English Capital Letter.
+
+Syntax : 
+```kotlin
+class ClassName{
+  // Block of Codes
+}
+```
+
+Example: 
+```kotlin
+class Dog{
+  val bread:String = "German Sephard"
+  val color:String = "Brown"
+}
+```
+
+#### Problems : (Coding Practice)
 
 |Question Number |Question|Ans|
 |----------------|--------|---|

@@ -69,6 +69,7 @@ val l = b?.length ?: -1
 val nullableList: List<Int?> = listOf(1, 2, null, 4)
 val intList: List<Int> = nullableList.filterNotNull()
 ```
+#### Problems : (Coding Practice) 
 
 |Question Number|Question|Ans|
 |---------------|--------|---|
