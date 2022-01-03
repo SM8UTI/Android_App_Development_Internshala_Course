@@ -11,7 +11,7 @@ class Laptop{
 fun main(){
 
     val obj1 = Laptop()
-    println("Brand Name : ${obj1.brand} RAM : ${obj1.ram} Disk Size : ${obj1.diskSize}")
+    println("Brand Name : ${obj1.brand} RAM : ${obj1.ram}GB Disk Size : ${obj1.diskSize} TB")
 
     obj1.performComputations()
    
