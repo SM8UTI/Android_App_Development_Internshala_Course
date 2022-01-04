@@ -46,3 +46,4 @@ Dog(`breed:String,age:Int`)  : Constructor Variable
 |Question Number|Question Name|Ans|
 |---------------|-------------|---|
 |01|Create class 'Clothes' with ‘material’, ‘colour’, and ‘price’ as properties in primary constructor and create its objects in the main function.|[q1.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-4/q1.kt)|
+|02|Create a class named ‘Book’ with properties as ‘book name’, ‘genre’ and ‘publisher’ in the primary constructor and create its objects in the main function.|[q2.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-4/q2.kt)|
