@@ -75,3 +75,4 @@ class Dog(var breed:String,var age:Int){
 |---------------|-------------|---|
 |01|Create class 'Clothes' with ‘material’, ‘colour’, and ‘price’ as properties in primary constructor and create its objects in the main function.|[q1.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-4/q1.kt)|
 |02|Create a class named ‘Book’ with properties as ‘book name’, ‘genre’ and ‘publisher’ in the primary constructor and create its objects in the main function.|[q2.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-4/q2.kt)|
+|03|Create a class ‘Person’ with the properties ‘first name’ and ‘last name’. Create a function ‘greeting’ and greet each created ‘Person’ object with the message “Hello ‘first name’ ‘last name’, welcome to Internshala Trainings!”|[q3.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-4/q3.kt)|
