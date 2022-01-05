@@ -43,7 +43,7 @@ Dog(`breed:String,age:Int`)  : Constructor Variable
 
 * A class that only use a Secondary constructor and not use Primary constructor.
 
-> Example : 
+###### Example : 
 ```kotlin
 class Dog{
   var breed:String
@@ -57,9 +57,9 @@ class Dog{
 ```
 
 * A class has both primary and Secondary constructor.
-> Example : 
+###### Example : 
 
-```
+```kotlin
 class Dog(var breed:String,var age:Int){
   var name:String? = null 
   constructor(breed:String,age:Int):this(breed,age){
