@@ -11,4 +11,5 @@
 |03|Classes of kotlin | [Day-3](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/tree/main/Day-3)|
 |04|Classes of kotlin ( Constructors & Real Life Application )|[Day-4](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/tree/main/Day-4)|
 |05| Inheritance and Interfaces | [Day-5](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/tree/main/Day-5)|
+|06|Inheritance and Interfaces ( Visiblity Modifiers and Interfaces )|[Day-6](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/tree/main/Day-6)|
 
