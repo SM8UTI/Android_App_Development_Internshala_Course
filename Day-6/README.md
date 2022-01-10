@@ -75,3 +75,4 @@ Problems :
 |Problems Numbers | Problems Statement|Answer|
 |-----------------|-------------------|------|
 |01|Create a parent class Car and functions speedUp() and applyBrake(). Now create two different child classes inheriting class Car. Also, create objects for both of the child classes and use the functions that were created inside the parent class.|[q1.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-6/q1.kt)|
+|02|In the previous class Car give the properties as brandName and color. Initialise the brandName as Hyundai and Honda for the respective classes.|[q2.kt](https://github.com/SM8UTI/Android_App_Development_Internshala_Course/blob/main/Day-6/q2.kt)|
